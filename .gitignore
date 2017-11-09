@@ -1,0 +1,6 @@
+.python-version
+__pycache__/*
+data/*.gz
+resource/*.jpg
+logs/*
+checkpoint/*
